@@ -4,10 +4,10 @@
 
   // Create coffee array with prices
   $theFood = array(
-    'pizza'=>4,
-    'cheese pizza'=>5.5,
-    'hawaiian pizza'=>4.25,
-    'vegetarian pizza'=>4.75
+    'pizza'=>5,
+    'cheese'=>7.5,
+    'hawaiian'=>6.5,
+    'vegetarian'=>5
   );
 
   // Process the form request
